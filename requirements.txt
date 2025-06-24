@@ -5,3 +5,7 @@ langchain-text-splitters
 langchain
 python-dotenv
 pypdf
+boto3
+langchain-aws
+streamlit
+ai21
